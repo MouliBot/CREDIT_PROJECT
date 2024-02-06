@@ -22,7 +22,7 @@
                     <td><span id="dept"></span></td>
                 </tr>
                 <tr>
-                    <td>ROLE NAME:</td>
+                    <td>ROLE NAMES:</td>
                     <td><input type="text" id="roleName"></td>
                 </tr>
             </table>
