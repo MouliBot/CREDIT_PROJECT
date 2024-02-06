@@ -14,11 +14,11 @@
         <form>
             <table>
                 <tr>
-                    <td>Role :</td>
+                    <td>Role ID:</td>
                     <td><input type="text" id="roleId"></td>
                 </tr>
                 <tr>
-                    <td>DEPT ID:</td>
+                    <td>DEPARTMENT ID:</td>
                     <td><span id="dept"></span></td>
                 </tr>
                 <tr>
